@@ -1,0 +1,21 @@
+!SESSION 2021-07-17 11:58:48.187 -----------------------------------------------
+eclipse.buildId=Version 1.6.1
+java.version=11.0.9.1
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-07-17 11:59:16.712
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-07-17 11:59:16.795
+!MESSAGE Log4j initialized with config file F:\STM32\BAR\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2021-07-17 11:59:20.680
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 4 4 2021-07-17 11:59:21.682
+!MESSAGE com.st.stm32cube.ide.mcu.ide/META-INF/version/build_ref file not found, build reference will not be reported into properties
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-07-17 12:05:57.272
+!MESSAGE Indexed 'BAR' (31 sources, 96 headers) in 3.06 sec: 7,010 declarations; 45,163 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0038%)
