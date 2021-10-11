@@ -10,10 +10,11 @@ STM32F103 + MBI5026 ( SPI 18Mb/s) , 640 RGB leds, 512 colors, offline random eff
     <div xmlns="http://www.w3.org/1999/xhtml">
         <ul>
             <li>text</li>
+            <iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FElediot%2Fvideos%2F960986507783842%2F&show_text=false&width=269&t=0" width="269" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
         </ul>
         <!-- Other embed HTML element/text into SVG -->
     </div>
 </foreignObject>
 </svg>
 
-[<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FElediot%2Fvideos%2F960986507783842%2F&show_text=false&width=269&t=0" width="269" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>]
+
